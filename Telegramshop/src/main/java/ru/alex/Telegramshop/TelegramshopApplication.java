@@ -5,7 +5,6 @@ import ru.alex.Telegramshop.model.Purchase;
 import ru.alex.Telegramshop.model.Shaurma;
 import ru.alex.Telegramshop.repository.PurchaseRepository;
 import ru.alex.Telegramshop.repository.ShaurmaRepository;
-import ru.alex.Telegramshop.service.ShaurmaService;
 
 import java.math.BigDecimal;
 import java.time.Instant;
